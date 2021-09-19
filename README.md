@@ -31,7 +31,6 @@ Akan diubah menjadi:\
     -   index.html --> Berisi template website
 -   app.py --> Berisi konfigurasi route untuk API
 -   model.pkl --> Model Regresi Linier yang sudah di-training
--   request.py --> Berisi percobaan pemanggilan API dengan payload data JSON
 -   requirements.txt --> Berisi daftar dependency/package Python yang diperlukan untuk menjalankan API dan model Regresi Linier
 
 #
